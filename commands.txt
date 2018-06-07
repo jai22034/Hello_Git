@@ -1,0 +1,6 @@
+git init:-to initilise
+git status:-check the status
+git clone:-to clone
+git add:-to add or track the file
+git commit:-to store data at local side
+git push -u origin master:-to push the file
